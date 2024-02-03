@@ -17,7 +17,7 @@ Criando pasta do projeto
  mkdir <formacao-db>
 ```
 
-Mudando para a pasto do Projeto
+Mudando para a pasta do Projeto
 
 ```bash
  cd <meu projeto>
@@ -26,7 +26,7 @@ Iniciando o projeto node.js
 ```bash
  npm init -y
 ```
-Instalar biblioteca para interagir com o promp
+Instalar biblioteca para interagir com o prompt
 
 ```bash
 npm install readline-sync
@@ -34,7 +34,7 @@ npm install readline-sync
 Executar um projeto
 
 ```bash
-node .\<nomedapasta>\app.js>
+node .\<nomedapasta>\app.js
 ```
 
 ## Desafio de Código
